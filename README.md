@@ -1,5 +1,5 @@
 # Jenkins_Assignment 
-###**Easy:**
+### **Easy:**
 In this Assignment we are just exploring and trying the basic features of Jenkins like what does jenkins do and how to use it and all.
 So basically you can install Jenkins Application in a docker container using this command
 ```sh
