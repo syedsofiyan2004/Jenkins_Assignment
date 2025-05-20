@@ -1,6 +1,6 @@
-![Picture-13](https://github.com/user-attachments/assets/62416aad-2c67-47cf-b2fa-03897f89aac4)# Jenkins_Assignment 
+# Jenkins_Assignment 
 ###**Easy:**
-In this Assignment we are just eXploring and trying the basic features of Jenkins like what does jenkins do and how to use it and all.
+In this Assignment we are just exploring and trying the basic features of Jenkins like what does jenkins do and how to use it and all.
 So basically you can install Jenkins Application in a docker container using this command
 ```sh
 docker run -p 8080:8080 -p 50000:50000 -d -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts
